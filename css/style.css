@@ -64,6 +64,9 @@ textarea {
 /*------------------------------------------------------------------
 [2. Navbar / .navbar]
 */
+.navbar {
+	color: #00ba8b;
+}
 
 .navbar .container {
 	position: relative;
@@ -1305,3 +1308,88 @@ color: #333;
 	text-align: justify;
 }
 
+.abstractHeading{
+	font-size: 18px;
+}
+
+.abstractContent{
+	font-size: 14px;
+}
+
+div.gallery {
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 100%;
+}
+
+div.gallery:hover {
+	border: 1px solid #777;
+}
+
+div.gallery img {
+	width: 100%;
+	height: auto;
+}
+
+div.desc {
+	padding: 10px;
+	text-align: center;
+}
+
+div.IOTGallery {
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 100%;
+}
+
+div.IOTGallery:hover {
+	border: 1px solid #777;
+}
+
+div.IOTGallery img {
+	width: 100%;
+	height: 200px;
+}
+
+div.galleryVideo:hover {
+	border: 1px solid #777;
+}
+
+
+.pptText > li{
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px !important;
+}
+
+.pptText1 > li {
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px !important;
+}
+
+.pptText1 p {
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px !important;
+}
+
+.pptImage{
+	height: 280px;
+	width: 100%;
+}
+
+.pptImage1{
+	height: 280px;
+	width: 40%;
+}
+
+.w3-lightGreen {
+	background: #00ba8b !important;
+}
+
+.w3-container{
+	font-family: "Times New Roman", Times, serif;
+}
